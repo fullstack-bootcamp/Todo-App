@@ -1,3 +1,4 @@
+//here the functionlity starts
 
 
 function addTodo(){
@@ -19,7 +20,7 @@ function addTodo(){
     todoContainer.append(doneButton);
     todosContainer.append(todoContainer);
 
-    inputElement.value=''
+    inputElement.value='' // this one resets the input to its original value
 
 
     
